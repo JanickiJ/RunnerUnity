@@ -2,8 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LevelStarter : MonoBehaviour
-{
+public class LevelStarter : MonoBehaviour {
     public GameObject countDown3;
     public GameObject countDown2;
     public GameObject countDown1;
@@ -11,13 +10,11 @@ public class LevelStarter : MonoBehaviour
     public AudioSource readyFX;
     public AudioSource goFX;
 
-    void Start()
-    {
+    void Start() {
         StartCoroutine(CountSequence());
     }
 
-    IEnumerator CountSequence()
-    {
+    IEnumerator CountSequence() {
         yield return new WaitForSeconds(1f);
         countDown3.SetActive(true);
         readyFX.Play();
@@ -32,5 +29,4 @@ public class LevelStarter : MonoBehaviour
         goFX.Play();
         PlayerMove.canMove = true;
     }
-
 }
