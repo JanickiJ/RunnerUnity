@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour {
     public GameObject playerObject;
+    public GameObject levelControl;
     public int currentLane = 1;
     public float startY;
     public float moveSpeed = 10;
@@ -79,13 +80,16 @@ public class PlayerMove : MonoBehaviour {
         comingDown = false;
         isJumping = false;
         transform.position = new Vector3(transform.position.x, startY , transform.position.z);
-        playerObject.GetComponent<Animator>().Play("Running");
+        if (!levelControl.GetComponent<EndRunSequence>().enabled) {
+            playerObject.GetComponent<Animator>().Play("Running");
+        }
     }
 
     IEnumerator SlideSequence() {
         yield return new WaitForSeconds(1.05f);
         isSliding = false;
-        playerObject.GetComponent<Animator>().Play("Running");
+        if (!levelControl.GetComponent<EndRunSequence>().enabled) {
+            playerObject.GetComponent<Animator>().Play("Running");
+        }
     }
-
 }
