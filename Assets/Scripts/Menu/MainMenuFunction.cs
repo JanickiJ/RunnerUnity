@@ -5,8 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuFunction : MonoBehaviour {
     public GameObject fadeIn;
+    public GameObject playerObject;
 
     void Start() {
+        playerObject.GetComponent<Animator>().Play("Swing Dancing");
         StartCoroutine(StartSequence());
     }
 
