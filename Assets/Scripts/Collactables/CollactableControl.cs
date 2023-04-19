@@ -8,6 +8,10 @@ public class CollactableControl : MonoBehaviour {
     public GameObject coinCountDisplay;
     public GameObject coinEndDisplay;
 
+    void Start() {
+        coinCount = 0;
+    }
+
     void Update() {
         coinCountDisplay.GetComponent<Text>().text = "" + coinCount;
         coinEndDisplay.GetComponent<Text>().text = "" + coinCount;

@@ -10,8 +10,12 @@ public class LevelDistance : MonoBehaviour {
     public bool addingDistance = false;
     public float disDelay = 0.5f;
 
+    void Start() {
+        distanceRun = 0;
+    }
+
     void Update() {
-        if (addingDistance == false){
+        if (addingDistance == false) {
             addingDistance = true;
             StartCoroutine(AddingDistance());
         }        

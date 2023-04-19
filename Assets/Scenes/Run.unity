@@ -374,7 +374,7 @@ GameObject:
   - component: {fileID: 25048728}
   - component: {fileID: 25048727}
   m_Layer: 0
-  m_Name: Box03 (1)
+  m_Name: Box06
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2368,7 +2368,7 @@ GameObject:
   m_Component:
   - component: {fileID: 100733726}
   m_Layer: 0
-  m_Name: WoodPath02 (2)
+  m_Name: WoodPath03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2903,7 +2903,7 @@ GameObject:
   - component: {fileID: 139034395}
   - component: {fileID: 139034394}
   m_Layer: 0
-  m_Name: Box02 (1)
+  m_Name: Box05
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3171,7 +3171,6 @@ Transform:
   - {fileID: 292114139}
   - {fileID: 793143087}
   - {fileID: 287135685}
-  - {fileID: 1596757370}
   - {fileID: 1244108545}
   m_Father: {fileID: 1219695266}
   m_RootOrder: 3
@@ -5175,7 +5174,7 @@ GameObject:
   m_Component:
   - component: {fileID: 276502714}
   m_Layer: 0
-  m_Name: WoodPath02 (2)
+  m_Name: WoodPath03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7447,7 +7446,7 @@ GameObject:
   m_Component:
   - component: {fileID: 386457439}
   m_Layer: 0
-  m_Name: ClothesHanger (1)
+  m_Name: ClothesHanger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9652,7 +9651,7 @@ GameObject:
   - component: {fileID: 461234974}
   - component: {fileID: 461234973}
   m_Layer: 0
-  m_Name: Rock01 (1)
+  m_Name: Rock02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10403,7 +10402,7 @@ GameObject:
   - component: {fileID: 497015002}
   - component: {fileID: 497015001}
   m_Layer: 0
-  m_Name: Tree01 (2)
+  m_Name: Tree03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10850,7 +10849,7 @@ GameObject:
   - component: {fileID: 515165143}
   - component: {fileID: 515165142}
   m_Layer: 0
-  m_Name: Building02 (2)
+  m_Name: Building03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11107,7 +11106,7 @@ GameObject:
   - component: {fileID: 530617754}
   - component: {fileID: 530617753}
   m_Layer: 0
-  m_Name: LogWood01 (1)
+  m_Name: LogWood02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13674,7 +13673,7 @@ GameObject:
   - component: {fileID: 652546737}
   - component: {fileID: 652546736}
   m_Layer: 0
-  m_Name: Building01 (2)
+  m_Name: Building03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14901,7 +14900,7 @@ GameObject:
   - component: {fileID: 719544848}
   - component: {fileID: 719544847}
   m_Layer: 0
-  m_Name: Box01 (1)
+  m_Name: Box04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15745,7 +15744,7 @@ GameObject:
   - component: {fileID: 760204259}
   - component: {fileID: 760204258}
   m_Layer: 0
-  m_Name: Building02 (1)
+  m_Name: Building02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16365,7 +16364,7 @@ GameObject:
   m_Component:
   - component: {fileID: 790485191}
   m_Layer: 0
-  m_Name: WoodPath02 (1)
+  m_Name: WoodPath01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16593,7 +16592,7 @@ GameObject:
   - component: {fileID: 806644818}
   - component: {fileID: 806644817}
   m_Layer: 0
-  m_Name: Bush01 (2)
+  m_Name: Bush03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18939,7 +18938,7 @@ GameObject:
   m_Component:
   - component: {fileID: 909300678}
   m_Layer: 0
-  m_Name: Box (1)
+  m_Name: Box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20032,7 +20031,7 @@ GameObject:
   m_Component:
   - component: {fileID: 986424866}
   m_Layer: 0
-  m_Name: WoodPath02
+  m_Name: WoodPath01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20538,7 +20537,7 @@ GameObject:
   - component: {fileID: 1018317187}
   - component: {fileID: 1018317186}
   m_Layer: 0
-  m_Name: Building02
+  m_Name: Building01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21629,7 +21628,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1087113410}
   m_Layer: 0
-  m_Name: WoodPath02 (1)
+  m_Name: WoodPath02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22561,7 +22560,7 @@ GameObject:
   - component: {fileID: 1129202798}
   - component: {fileID: 1129202797}
   m_Layer: 0
-  m_Name: Building01 (1)
+  m_Name: Building02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25185,7 +25184,7 @@ Transform:
   - {fileID: 449945833}
   - {fileID: 530617752}
   m_Father: {fileID: 159694427}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1250420565
 GameObject:
@@ -25197,7 +25196,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1250420566}
   m_Layer: 0
-  m_Name: WoodPath02
+  m_Name: WoodPath01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25288,6 +25287,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 979766220}
+  - {fileID: 1741582334}
   m_Father: {fileID: 159694427}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -26892,7 +26892,7 @@ GameObject:
   - component: {fileID: 1352175449}
   - component: {fileID: 1352175448}
   m_Layer: 0
-  m_Name: Table01 (2)
+  m_Name: Table02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27707,7 +27707,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1384428463}
   m_Layer: 0
-  m_Name: WoodPath02 (1)
+  m_Name: WoodPath02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28510,7 +28510,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1432432646}
   m_Layer: 0
-  m_Name: WoodPath02
+  m_Name: WoodPath01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29123,7 +29123,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1458754973}
   m_Layer: 0
-  m_Name: ClothesHanger (2)
+  m_Name: ClothesHanger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31689,38 +31689,6 @@ Transform:
   m_Father: {fileID: 684537937}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1596757369
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1596757370}
-  m_Layer: 0
-  m_Name: Table
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1596757370
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1596757369}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1741582334}
-  m_Father: {fileID: 159694427}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1600356143 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4931211907768612, guid: e88b7bb02ae149940a5a0cddf34fe370, type: 3}
@@ -33276,7 +33244,7 @@ GameObject:
   - component: {fileID: 1708891212}
   - component: {fileID: 1708891211}
   m_Layer: 0
-  m_Name: Chair01 (1)
+  m_Name: Chair02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33386,7 +33354,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1720047392}
   m_Layer: 0
-  m_Name: WoodPath02 (1)
+  m_Name: WoodPath02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33741,7 +33709,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1736105028}
   m_Layer: 0
-  m_Name: WoodPath02
+  m_Name: WoodPath01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33923,14 +33891,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1741582333}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.71, y: -0.41, z: -22.64}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.709999, y: -0.40999997, z: -22.64}
   m_LocalScale: {x: 2.1214, y: 1.213, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 712990995}
-  m_Father: {fileID: 1596757370}
-  m_RootOrder: 0
+  m_Father: {fileID: 1255255771}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1741582335
 MonoBehaviour:
@@ -35278,7 +35246,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1796454561}
   m_Layer: 0
-  m_Name: WoodPath02 (2)
+  m_Name: WoodPath03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -38579,7 +38547,7 @@ GameObject:
   - component: {fileID: 1991832847}
   - component: {fileID: 1991832846}
   m_Layer: 0
-  m_Name: Bush01 (1)
+  m_Name: Bush02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -38810,7 +38778,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2000772968}
   m_Layer: 0
-  m_Name: WoodPath02 (2)
+  m_Name: WoodPath03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39481,7 +39449,7 @@ GameObject:
   - component: {fileID: 2017969575}
   - component: {fileID: 2017969574}
   m_Layer: 0
-  m_Name: Rock01 (2)
+  m_Name: Rock03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40123,7 +40091,7 @@ GameObject:
   - component: {fileID: 2043804961}
   - component: {fileID: 2043804960}
   m_Layer: 0
-  m_Name: Tree01 (1)
+  m_Name: Tree02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
