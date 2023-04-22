@@ -16,6 +16,10 @@ public class MainMenuFunction : MonoBehaviour {
         SceneManager.LoadScene(1);
     }
 
+    public void QuitGame() {
+            Application.Quit();
+        }
+
     IEnumerator StartSequence() {
         fadeIn.SetActive(true);
         yield return new WaitForSeconds(2);
