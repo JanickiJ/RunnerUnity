@@ -6,7 +6,6 @@ The project is created using Unity and C# scripts.
 
 ## Deploy
 To install app download executives from our repository. Our app is compatible with:
-* [MacOS](exec/macos)
 * [Linux](exec/linux)
 
 ## Game world
