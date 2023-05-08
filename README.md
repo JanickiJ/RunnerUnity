@@ -5,7 +5,7 @@ An endless 3d runner. The objective of the game is to survive as long as possibl
 The project is created using Unity and C# scripts.
 
 ## Deploy
-To install app download executives from our repository. Our app is compatible with:
+To install app download executives(_game.x86_64_) from our repository. Our app is compatible with:
 * [Linux](exec/linux)
 
 ## Game world
